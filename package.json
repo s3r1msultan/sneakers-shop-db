@@ -1,0 +1,13 @@
+{
+  "name": "sneakers-shop-db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/s3r1msultan/sneakers-shop-db.git",
+  "author": "Hamlethan27 <hamlethan1999@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.4"
+  }
+}
